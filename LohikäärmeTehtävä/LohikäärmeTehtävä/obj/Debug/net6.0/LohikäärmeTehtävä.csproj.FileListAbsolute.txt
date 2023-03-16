@@ -1,0 +1,15 @@
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\bin\Debug\net6.0\LohikäärmeTehtävä.exe
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\bin\Debug\net6.0\LohikäärmeTehtävä.deps.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\bin\Debug\net6.0\LohikäärmeTehtävä.runtimeconfig.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\bin\Debug\net6.0\LohikäärmeTehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\bin\Debug\net6.0\LohikäärmeTehtävä.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.AssemblyInfo.cs
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\refint\LohikäärmeTehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\LohikäärmeTehtävä.genruntimeconfig.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\LohikäärmeTehtävä\LohikäärmeTehtävä\obj\Debug\net6.0\ref\LohikäärmeTehtävä.dll

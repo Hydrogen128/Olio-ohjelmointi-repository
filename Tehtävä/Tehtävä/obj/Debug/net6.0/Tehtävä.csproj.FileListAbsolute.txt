@@ -1,0 +1,15 @@
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.AssemblyInfo.cs
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\bin\Debug\net6.0\Tehtävä.exe
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\bin\Debug\net6.0\Tehtävä.deps.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\bin\Debug\net6.0\Tehtävä.runtimeconfig.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\bin\Debug\net6.0\Tehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\bin\Debug\net6.0\Tehtävä.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\refint\Tehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\Tehtävä.genruntimeconfig.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Tehtävä\Tehtävä\obj\Debug\net6.0\ref\Tehtävä.dll

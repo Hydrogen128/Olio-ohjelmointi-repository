@@ -1,0 +1,15 @@
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\bin\Debug\net6.0\OviTehtävä.exe
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\bin\Debug\net6.0\OviTehtävä.deps.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\bin\Debug\net6.0\OviTehtävä.runtimeconfig.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\bin\Debug\net6.0\OviTehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\bin\Debug\net6.0\OviTehtävä.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.AssemblyInfo.cs
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\refint\OviTehtävä.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\OviTehtävä.genruntimeconfig.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\OviTehtävä\OviTehtävä\obj\Debug\net6.0\ref\OviTehtävä.dll

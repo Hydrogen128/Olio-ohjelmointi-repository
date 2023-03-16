@@ -1,0 +1,15 @@
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\bin\Debug\net6.0\Nuoli.exe
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\bin\Debug\net6.0\Nuoli.deps.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\bin\Debug\net6.0\Nuoli.runtimeconfig.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\bin\Debug\net6.0\Nuoli.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\bin\Debug\net6.0\Nuoli.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.csproj.AssemblyReference.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.AssemblyInfoInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.AssemblyInfo.cs
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.csproj.CoreCompileInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\refint\Nuoli.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\Nuoli.genruntimeconfig.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\Nuoli\Nuoli\obj\Debug\net6.0\ref\Nuoli.dll
