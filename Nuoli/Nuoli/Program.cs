@@ -5,9 +5,10 @@ enum Pera { LEHTI = 0, KANANSULKA = 1, KOTKANSULKA = 5 }
 
 class Nuoli
 {
-    private Karki karki;
-    private Pera pera;
-    private double pituus;
+    private Karki karki { get; set; }
+    private Pera pera { get; set; }
+
+    private double pituus { get; set; }
 
     public Nuoli(Karki karki, Pera pera, double pituus)
     {
@@ -16,10 +17,25 @@ class Nuoli
         this.pituus = pituus;
     }
 
+    public static Nuoli LuoEliittiNuoli()
+    {
+        return new Nuoli(Karki.TIMANTTI, Pera.KOTKANSULKA, 100);
+    }
+
+    public static Nuoli LuoAloittelijaNuoli()
+    {
+        return new Nuoli(Karki.PUU, Pera.KANANSULKA, 70);
+    }
+
+    public static Nuoli LuoPerusNuoli()
+    {
+        return new Nuoli(Karki.TERAS, Pera.KANANSULKA, 85);
+    }
+
     public double PalautaHinta()
     {
-        double karkin_hinta = (double)karki;
-        double peran_hinta = (double)pera;
+        int karkin_hinta = (int)karki;
+        int peran_hinta = (int)pera;
         double varren_hinta = pituus * 0.05;
         double hinta = karkin_hinta + peran_hinta + varren_hinta;
         return hinta;
@@ -51,6 +67,38 @@ class Ohjelma
 {
     static void Main()
     {
+        Nuoli nuoli;
+        Console.WriteLine("Valitse nuoli:");
+        Console.WriteLine("1) Eliittinuoli");
+        Console.WriteLine("2) Aloittelijanuoli");
+        Console.WriteLine("3) Perusnuoli");
+        Console.WriteLine("4) Kustomoitu nuoli");
+        Console.Write("Syötä valinta (1-4): ");
+
+        int valinta = int.Parse(Console.ReadLine());
+
+        switch (valinta)
+        {
+            case 1:
+                nuoli = Nuoli.LuoEliittiNuoli();
+                Console.WriteLine($"Nuolen hinta on {nuoli.PalautaHinta()} " + "kultaa");
+                break;
+
+            case 2:
+                nuoli = Nuoli.LuoAloittelijaNuoli();
+                Console.WriteLine($"Nuolen hinta on {nuoli.PalautaHinta()} " + "kultaa");
+                break;
+            case 3:
+                nuoli = Nuoli.LuoPerusNuoli();
+                Console.WriteLine($"Nuolen hinta on {nuoli.PalautaHinta()} " + "kultaa");
+                break;
+            case 4:
+                CustomNuoli();
+                break;
+        }
+    }
+    static void CustomNuoli()
+    {
         Console.Write("Valitse nuolen kärki (puu, teräs tai timantti): ");
         Karki karki = (Karki)Enum.Parse(typeof(Karki), Console.ReadLine().ToUpper());
 
@@ -72,3 +120,5 @@ class Ohjelma
     }
 
 }
+
+
