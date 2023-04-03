@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RavintolaSovellus
+namespace Ateria
 {
     class Program
     {
