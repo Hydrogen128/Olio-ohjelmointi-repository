@@ -1,0 +1,15 @@
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\bin\Debug\net6.0\TuplesRuoka-annos.exe
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\bin\Debug\net6.0\TuplesRuoka-annos.deps.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\bin\Debug\net6.0\TuplesRuoka-annos.runtimeconfig.json
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\bin\Debug\net6.0\TuplesRuoka-annos.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\bin\Debug\net6.0\TuplesRuoka-annos.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.csproj.AssemblyReference.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.AssemblyInfoInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.AssemblyInfo.cs
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.csproj.CoreCompileInputs.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\refint\TuplesRuoka-annos.dll
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.pdb
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\TuplesRuoka-annos.genruntimeconfig.cache
+C:\Users\s2101070\source\repos\Tehtävät C terävä\Tehtävät C terävä\TuplesRuoka-annos\TuplesRuoka-annos\obj\Debug\net6.0\ref\TuplesRuoka-annos.dll
